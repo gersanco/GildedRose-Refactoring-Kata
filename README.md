@@ -1,6 +1,6 @@
 * This is my version of the Gilded Rose Refactoring Kata with TypeScript
 
-##Original project
+## Original project
 https://github.com/emilybache/GildedRose-Refactoring-Kata
 
 # Gilded Rose Refactoring Kata
