@@ -4,7 +4,6 @@ export class Item {
     name: string;
     sellIn: number;
     quality: number;
-    prueba:string;
 
     constructor(name, sellIn, quality) {
         this.name = name;
